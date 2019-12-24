@@ -1,0 +1,30 @@
+.wholes {
+    height: 850px;
+    width: 100%;
+    background-image: url(../assets/boxs.jpeg);
+    background-repeat: no-repeat;
+}
+
+.minititle{
+    font-size: 20px;
+    font-family: 'Chalkboard SE';
+    display: block;
+    color: #cc0000;
+}
+
+.lgo {
+    display: block;
+    padding-top: 100px;
+}
+
+.bnt {
+    font-family: 'Chalkboard SE';
+    font-size: 20px;
+    padding: 2px;
+    width: 150px;
+    border: none;
+}
+
+.bont {
+    background-color: 'rgba(255,255,255,0.8)'
+}

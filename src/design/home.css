@@ -1,0 +1,44 @@
+.whole {
+    height: 850px;
+    width: 100%;
+    background-image: url(../assets/boxs.jpeg);
+    background-repeat: no-repeat;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Chalkboard SE';
+    padding-top: 150px;
+    font-size: 50px;
+}
+
+.logo {
+    display: block;
+}
+
+.txt {
+    color: #cc0000;
+    font-family: 'Chalkboard SE';
+    font-size: 15;
+    font-weight: 'bold';
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.btn {
+    margin-top: 30px;
+    font-size: 15px;
+    padding: 15px;
+    width: 250px;
+    border-radius: 35px;
+    background-color: #cc0000;
+    border: none;
+}
+
+.strt {
+    font-family: 'Chalkboard SE';
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
